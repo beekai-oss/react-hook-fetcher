@@ -1,5 +1,5 @@
 {
-  "name": "react-fetcher",
+  "name": "react-hook-fetcher",
   "version": "1.0.0",
   "description": "React simple API fetch hook",
   "main": "index.js",
