@@ -1,4 +1,4 @@
-# react-hook-fetcher
+# React Hook Fetcher
 React simple fetch API hook
 
 ## Intall
