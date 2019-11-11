@@ -1,7 +1,10 @@
 # react-hook-fetcher
-React simple fetcher hook
+React simple fetch API hook
 
-Example:
+## Intall
+    $ npm install react-hook-fetcher
+
+## Example
 
 ```
 function App() {
