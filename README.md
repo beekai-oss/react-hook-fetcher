@@ -6,7 +6,7 @@ React simple fetch API hook
 
 ## Example
 
-```
+```jsx
 function App() {
   const {
     fetcher,
